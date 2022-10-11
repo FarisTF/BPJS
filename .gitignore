@@ -1,7 +1,12 @@
 sampling_healthkathon2022_diagnosa/
 sampling_healthkathon2022_procedure/
 sampling_healtkathon2022/
+Pred/
+Kumpul/
+selisih_completed_merged_pred.csv
+selisih_completed_merged.csv
 no_na(11juta).csv
 no_na(no_tgl).csv
 kategori_processed.csv
+kategori_processed_pred.csv
 answer.csv
