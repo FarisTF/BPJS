@@ -10,3 +10,4 @@ no_na(no_tgl).csv
 kategori_processed.csv
 kategori_processed_pred.csv
 answer.csv
+clean_final.csv
